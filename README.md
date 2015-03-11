@@ -1,6 +1,7 @@
 # CHIAS
 Control Hardware Interfacing Arduino System
-Authors: Pete Marshall and Jack Nelson
+
+Contributors: Pete Marshall and Jack Nelson
 
 CHIAS is a dynamic robotic control system that interfaces between an on-board processor and control hardware such as 
 steering servos and motor controllers on a heavily-modified RC car. CHIAS allows control over the RC vehicle to be
